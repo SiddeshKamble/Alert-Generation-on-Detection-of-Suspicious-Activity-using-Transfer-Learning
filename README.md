@@ -6,7 +6,7 @@ ADAG (Activity Detector and Alert Generator) aims to take real-time videos from 
 ## Downloading and Configuring
 
 ```
-gh repo clone OmRajpurkar/Alert-Generation-on-Detection-of-Suspicious-Activity-using-Transfer-Learning
+gh repo clone SiddeshKamble/Alert-Generation-on-Detection-of-Suspicious-Activity-using-Transfer-Learning
 ```
 
 * Download the [model](https://drive.google.com/file/d/1nTohU6YgXZvU155_vccnD2OEkdTW166W/view?usp=sharing) and place it inside ‘videoClassification’ directory.
