@@ -1,7 +1,8 @@
 # Activity Detector and Alert Generator using Transfer Learning 🕵️‍♂️ 
 ADAG (Activity Detector and Alert Generator) aims to take real-time videos from CCTV as an input and pass it to the CNN model created with the help of transfer learning and detect ‘Shoplifting’, ‘Robbery’ or ’Break-In’ in the store and notify it to the owners as soon as it occurs. Finally the main motive is to provide a system that detects suspicious activities without human intervention and generates alert, thus making a huge revolution in today’s surveillance system.
 
-<img src="https://github.com/OmRajpurkar/Alert-Generation-on-Detection-of-Suspicious-Activity-using-Transfer-Learning/blob/main/videoClassification/Shoplifting.gif" alt="alt text">
+![Shoplifting](https://github.com/user-attachments/assets/413a2bfc-49c7-44de-b7d4-de19caa12a2d)
+
 
 ## Downloading and Configuring
 
